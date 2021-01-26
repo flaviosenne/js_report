@@ -1,0 +1,32 @@
+{
+    "shortid": "qrQLVD_yhz",
+    "name": "books",
+    "recipe": "html-to-xlsx",
+    "engine": "none",
+    "chrome": {
+        "printBackground": true
+    },
+    "htmlToXlsx": {
+        "htmlEngine": "chrome",
+        "waitForJS": false
+    },
+    "data": {
+        "shortid": "Sy5S19ncg"
+    },
+    "resources": {
+        "items": [
+            {
+                "shortid": "Sy5S19ncg",
+                "entitySet": "data"
+            }
+        ]
+    },
+    "creationDate": {
+        "$$date": 1611618509353
+    },
+    "modificationDate": {
+        "$$date": 1611620076592
+    },
+    "_id": "8t8OnW6HpCZwAJ9O",
+    "$entitySet": "templates"
+}

@@ -1,0 +1,281 @@
+2021-01-25T22:41:51.445Z - info: Initializing jsreport@2.11.0 in development mode using configuration file: jsreport.config.json
+2021-01-25T22:41:51.447Z - info: Searching for available extensions in C:\Users\user\Desktop\jsreport\
+2021-01-25T22:41:51.453Z - info: Extensions location cache not found, crawling directories
+2021-01-25T22:41:55.122Z - info: Found 35 extensions
+2021-01-25T22:41:55.904Z - info: Setting http-server strategy for rendering
+2021-01-25T22:41:56.529Z - info: Using extension cli@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-cli:2.2.5
+2021-01-25T22:41:56.545Z - info: Using extension debug@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-debug:2.1.3
+2021-01-25T22:41:56.552Z - info: Using extension express@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-express:2.8.1
+2021-01-25T22:41:57.283Z - info: Using extension freeze@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-freeze:2.0.0
+2021-01-25T22:41:57.286Z - info: Using extension handlebars@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-handlebars:2.1.0
+2021-01-25T22:41:57.294Z - info: Using extension import-export@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-import-export:2.1.1
+2021-01-25T22:41:57.505Z - info: Using extension jsrender@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-jsrender:2.1.1
+2021-01-25T22:41:57.506Z - info: Using extension tags@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-tags:2.5.0
+2021-01-25T22:41:57.522Z - info: Using extension templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-templates:2.4.0
+2021-01-25T22:41:57.527Z - info: Using extension authorization@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-authorization:2.4.0
+2021-01-25T22:41:57.538Z - info: Using extension base@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-base:2.0.2
+2021-01-25T22:41:57.541Z - info: Using extension browser-client@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-browser-client:2.2.2
+2021-01-25T22:41:57.547Z - info: Using extension child-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-child-templates:1.4.0
+2021-01-25T22:41:57.575Z - info: Using extension chrome-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-chrome-pdf:1.10.0
+2021-01-25T22:41:57.761Z - info: Using extension data@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-data:2.4.0
+2021-01-25T22:41:57.784Z - info: Using extension docx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-docx:2.9.0
+2021-01-25T22:41:57.794Z - info: Using extension fs-store@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-fs-store:2.9.1
+2021-01-25T22:41:58.273Z - info: Using extension licensing@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-licensing:2.2.3
+2021-01-25T22:41:58.301Z - info: Using extension pdf-utils@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pdf-utils:1.10.1
+2021-01-25T22:41:58.679Z - info: Using extension pptx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pptx:0.7.0
+2021-01-25T22:41:58.698Z - info: Using extension reports@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-reports:2.5.1
+2021-01-25T22:41:58.712Z - info: Using extension static-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-static-pdf:0.4.0
+2021-01-25T22:41:58.742Z - info: Using extension studio@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio:2.10.1
+2021-01-25T22:41:58.866Z - info: Using extension text@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-text:2.0.0
+2021-01-25T22:41:58.869Z - info: Using extension version-control@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-version-control:1.6.0
+2021-01-25T22:41:59.160Z - info: Using extension assets@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-assets:1.7.0
+2021-01-25T22:41:59.247Z - info: Using extension html-to-xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-html-to-xlsx:2.8.3
+2021-01-25T22:42:00.507Z - info: html-to-xlsx detected chrome as available html engine
+2021-01-25T22:42:00.507Z - info: Using extension scheduling@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scheduling:2.5.0
+2021-01-25T22:42:00.623Z - info: Using extension scripts@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scripts:2.6.0
+2021-01-25T22:42:00.629Z - info: Using extension studio-theme-dark@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio-theme-dark:0.3.0
+2021-01-25T22:42:00.631Z - info: Using extension xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-xlsx:2.5.0
+2021-01-25T22:42:01.141Z - info: Using extension public-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-public-templates:2.2.0
+2021-01-25T22:42:01.147Z - info: Using extension resources@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-resources:2.1.0
+2021-01-25T22:42:01.150Z - info: Using extension sample-template@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-sample-template:2.6.1
+2021-01-25T22:42:01.154Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-01-25T22:42:01.154Z - info: Using fs provider for template store.
+2021-01-25T22:42:01.160Z - info: fs store is persisting using fs
+2021-01-25T22:42:01.161Z - info: fs store is synchronizing using fs
+2021-01-25T22:42:01.169Z - info: fs store is loading data
+2021-01-25T22:42:01.217Z - info: fs store is initialized successfully
+2021-01-25T22:42:01.252Z - info: Creating default express app.
+2021-01-25T22:42:01.413Z - info: jsreport server successfully started on http port: 5488
+2021-01-25T22:42:01.413Z - info: fs store emits sockets to synchronize underlying changes with studio
+2021-01-25T22:42:01.507Z - info: Verifying license key free
+2021-01-25T22:42:01.508Z - info: Using free license
+2021-01-25T22:42:01.984Z - info: reporter initialized
+2021-01-25T22:45:09.061Z - info: Initializing jsreport@2.11.0 in development mode using configuration file: jsreport.config.json
+2021-01-25T22:45:09.063Z - info: Searching for available extensions in C:\Users\user\Desktop\jsreport\
+2021-01-25T22:45:09.075Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\user\Desktop\jsreport\
+2021-01-25T22:45:09.093Z - info: Found 35 extensions
+2021-01-25T22:45:09.567Z - info: Setting http-server strategy for rendering
+2021-01-25T22:45:09.930Z - info: Using extension cli@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-cli:2.2.5
+2021-01-25T22:45:09.936Z - info: Using extension debug@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-debug:2.1.3
+2021-01-25T22:45:09.941Z - info: Using extension express@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-express:2.8.1
+2021-01-25T22:45:10.335Z - info: Using extension freeze@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-freeze:2.0.0
+2021-01-25T22:45:10.338Z - info: Using extension handlebars@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-handlebars:2.1.0
+2021-01-25T22:45:10.348Z - info: Using extension import-export@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-import-export:2.1.1
+2021-01-25T22:45:10.448Z - info: Using extension jsrender@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-jsrender:2.1.1
+2021-01-25T22:45:10.450Z - info: Using extension tags@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-tags:2.5.0
+2021-01-25T22:45:10.455Z - info: Using extension templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-templates:2.4.0
+2021-01-25T22:45:10.461Z - info: Using extension authorization@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-authorization:2.4.0
+2021-01-25T22:45:10.471Z - info: Using extension base@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-base:2.0.2
+2021-01-25T22:45:10.475Z - info: Using extension browser-client@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-browser-client:2.2.2
+2021-01-25T22:45:10.481Z - info: Using extension child-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-child-templates:1.4.0
+2021-01-25T22:45:10.492Z - info: Using extension chrome-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-chrome-pdf:1.10.0
+2021-01-25T22:45:10.639Z - info: Using extension data@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-data:2.4.0
+2021-01-25T22:45:10.641Z - info: Using extension docx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-docx:2.9.0
+2021-01-25T22:45:10.650Z - info: Using extension fs-store@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-fs-store:2.9.1
+2021-01-25T22:45:10.945Z - info: Using extension licensing@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-licensing:2.2.3
+2021-01-25T22:45:10.954Z - info: Using extension pdf-utils@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pdf-utils:1.10.1
+2021-01-25T22:45:11.180Z - info: Using extension pptx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pptx:0.7.0
+2021-01-25T22:45:11.192Z - info: Using extension reports@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-reports:2.5.1
+2021-01-25T22:45:11.200Z - info: Using extension static-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-static-pdf:0.4.0
+2021-01-25T22:45:11.206Z - info: Using extension studio@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio:2.10.1
+2021-01-25T22:45:11.312Z - info: Using extension text@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-text:2.0.0
+2021-01-25T22:45:11.315Z - info: Using extension version-control@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-version-control:1.6.0
+2021-01-25T22:45:11.512Z - info: Using extension assets@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-assets:1.7.0
+2021-01-25T22:45:11.554Z - info: Using extension html-to-xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-html-to-xlsx:2.8.3
+2021-01-25T22:45:12.419Z - info: html-to-xlsx detected chrome as available html engine
+2021-01-25T22:45:12.419Z - info: Using extension scheduling@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scheduling:2.5.0
+2021-01-25T22:45:12.512Z - info: Using extension scripts@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scripts:2.6.0
+2021-01-25T22:45:12.518Z - info: Using extension studio-theme-dark@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio-theme-dark:0.3.0
+2021-01-25T22:45:12.520Z - info: Using extension xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-xlsx:2.5.0
+2021-01-25T22:45:12.924Z - info: Using extension public-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-public-templates:2.2.0
+2021-01-25T22:45:12.928Z - info: Using extension resources@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-resources:2.1.0
+2021-01-25T22:45:12.931Z - info: Using extension sample-template@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-sample-template:2.6.1
+2021-01-25T22:45:12.936Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-01-25T22:45:12.936Z - info: Using fs provider for template store.
+2021-01-25T22:45:12.943Z - info: fs store is persisting using fs
+2021-01-25T22:45:12.946Z - info: fs store is synchronizing using fs
+2021-01-25T22:45:12.958Z - info: fs store is loading data
+2021-01-25T22:45:13.069Z - info: fs store is initialized successfully
+2021-01-25T22:45:13.086Z - info: Creating default express app.
+2021-01-25T22:45:13.118Z - info: jsreport server successfully started on http port: 5488
+2021-01-25T22:45:13.121Z - info: fs store emits sockets to synchronize underlying changes with studio
+2021-01-25T22:45:13.158Z - info: Verifying license key free
+2021-01-25T22:45:13.160Z - info: Using free license
+2021-01-25T22:45:13.167Z - info: reporter initialized
+2021-01-25T22:45:24.443Z - info: Initializing jsreport@2.11.0 in development mode using configuration file: jsreport.config.json
+2021-01-25T22:45:24.445Z - info: Searching for available extensions in C:\Users\user\Desktop\jsreport\
+2021-01-25T22:45:24.461Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\user\Desktop\jsreport\
+2021-01-25T22:45:24.480Z - info: Found 35 extensions
+2021-01-25T22:45:24.964Z - info: Setting http-server strategy for rendering
+2021-01-25T22:45:25.267Z - info: Using extension cli@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-cli:2.2.5
+2021-01-25T22:45:25.275Z - info: Using extension debug@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-debug:2.1.3
+2021-01-25T22:45:25.280Z - info: Using extension express@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-express:2.8.1
+2021-01-25T22:45:25.662Z - info: Using extension freeze@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-freeze:2.0.0
+2021-01-25T22:45:25.665Z - info: Using extension handlebars@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-handlebars:2.1.0
+2021-01-25T22:45:25.670Z - info: Using extension import-export@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-import-export:2.1.1
+2021-01-25T22:45:25.776Z - info: Using extension jsrender@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-jsrender:2.1.1
+2021-01-25T22:45:25.778Z - info: Using extension tags@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-tags:2.5.0
+2021-01-25T22:45:25.784Z - info: Using extension templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-templates:2.4.0
+2021-01-25T22:45:25.791Z - info: Using extension authorization@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-authorization:2.4.0
+2021-01-25T22:45:25.800Z - info: Using extension base@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-base:2.0.2
+2021-01-25T22:45:25.803Z - info: Using extension browser-client@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-browser-client:2.2.2
+2021-01-25T22:45:25.808Z - info: Using extension child-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-child-templates:1.4.0
+2021-01-25T22:45:25.818Z - info: Using extension chrome-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-chrome-pdf:1.10.0
+2021-01-25T22:45:25.969Z - info: Using extension data@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-data:2.4.0
+2021-01-25T22:45:25.971Z - info: Using extension docx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-docx:2.9.0
+2021-01-25T22:45:25.980Z - info: Using extension fs-store@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-fs-store:2.9.1
+2021-01-25T22:45:26.273Z - info: Using extension licensing@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-licensing:2.2.3
+2021-01-25T22:45:26.283Z - info: Using extension pdf-utils@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pdf-utils:1.10.1
+2021-01-25T22:45:26.499Z - info: Using extension pptx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pptx:0.7.0
+2021-01-25T22:45:26.509Z - info: Using extension reports@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-reports:2.5.1
+2021-01-25T22:45:26.518Z - info: Using extension static-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-static-pdf:0.4.0
+2021-01-25T22:45:26.525Z - info: Using extension studio@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio:2.10.1
+2021-01-25T22:45:26.625Z - info: Using extension text@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-text:2.0.0
+2021-01-25T22:45:26.627Z - info: Using extension version-control@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-version-control:1.6.0
+2021-01-25T22:45:26.833Z - info: Using extension assets@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-assets:1.7.0
+2021-01-25T22:45:26.866Z - info: Using extension html-to-xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-html-to-xlsx:2.8.3
+2021-01-25T22:45:27.623Z - info: html-to-xlsx detected chrome as available html engine
+2021-01-25T22:45:27.623Z - info: Using extension scheduling@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scheduling:2.5.0
+2021-01-25T22:45:27.693Z - info: Using extension scripts@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scripts:2.6.0
+2021-01-25T22:45:27.698Z - info: Using extension studio-theme-dark@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio-theme-dark:0.3.0
+2021-01-25T22:45:27.700Z - info: Using extension xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-xlsx:2.5.0
+2021-01-25T22:45:28.059Z - info: Using extension public-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-public-templates:2.2.0
+2021-01-25T22:45:28.062Z - info: Using extension resources@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-resources:2.1.0
+2021-01-25T22:45:28.064Z - info: Using extension sample-template@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-sample-template:2.6.1
+2021-01-25T22:45:28.068Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-01-25T22:45:28.069Z - info: Using fs provider for template store.
+2021-01-25T22:45:28.074Z - info: fs store is persisting using fs
+2021-01-25T22:45:28.077Z - info: fs store is synchronizing using fs
+2021-01-25T22:45:28.090Z - info: fs store is loading data
+2021-01-25T22:45:28.198Z - info: fs store is initialized successfully
+2021-01-25T22:45:28.212Z - info: Creating default express app.
+2021-01-25T22:45:28.246Z - info: jsreport server successfully started on http port: 5488
+2021-01-25T22:45:28.246Z - info: fs store emits sockets to synchronize underlying changes with studio
+2021-01-25T22:45:28.281Z - info: Verifying license key free
+2021-01-25T22:45:28.282Z - info: Using free license
+2021-01-25T22:45:28.288Z - info: reporter initialized
+2021-01-25T22:47:08.403Z - info: Initializing jsreport@2.11.0 in development mode using configuration file: jsreport.config.json
+2021-01-25T22:47:08.405Z - info: Searching for available extensions in C:\Users\user\Desktop\jsreport\
+2021-01-25T22:47:08.419Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\user\Desktop\jsreport\
+2021-01-25T22:47:08.437Z - info: Found 35 extensions
+2021-01-25T22:47:08.914Z - info: Setting http-server strategy for rendering
+2021-01-25T22:47:09.198Z - info: Using extension cli@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-cli:2.2.5
+2021-01-25T22:47:09.207Z - info: Using extension debug@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-debug:2.1.3
+2021-01-25T22:47:09.212Z - info: Using extension express@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-express:2.8.1
+2021-01-25T22:47:09.578Z - info: Using extension freeze@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-freeze:2.0.0
+2021-01-25T22:47:09.581Z - info: Using extension handlebars@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-handlebars:2.1.0
+2021-01-25T22:47:09.586Z - info: Using extension import-export@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-import-export:2.1.1
+2021-01-25T22:47:09.693Z - info: Using extension jsrender@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-jsrender:2.1.1
+2021-01-25T22:47:09.695Z - info: Using extension tags@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-tags:2.5.0
+2021-01-25T22:47:09.699Z - info: Using extension templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-templates:2.4.0
+2021-01-25T22:47:09.704Z - info: Using extension authorization@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-authorization:2.4.0
+2021-01-25T22:47:09.712Z - info: Using extension base@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-base:2.0.2
+2021-01-25T22:47:09.714Z - info: Using extension browser-client@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-browser-client:2.2.2
+2021-01-25T22:47:09.719Z - info: Using extension child-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-child-templates:1.4.0
+2021-01-25T22:47:09.730Z - info: Using extension chrome-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-chrome-pdf:1.10.0
+2021-01-25T22:47:09.880Z - info: Using extension data@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-data:2.4.0
+2021-01-25T22:47:09.881Z - info: Using extension docx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-docx:2.9.0
+2021-01-25T22:47:09.890Z - info: Using extension fs-store@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-fs-store:2.9.1
+2021-01-25T22:47:10.192Z - info: Using extension licensing@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-licensing:2.2.3
+2021-01-25T22:47:10.202Z - info: Using extension pdf-utils@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pdf-utils:1.10.1
+2021-01-25T22:47:10.413Z - info: Using extension pptx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-pptx:0.7.0
+2021-01-25T22:47:10.423Z - info: Using extension reports@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-reports:2.5.1
+2021-01-25T22:47:10.431Z - info: Using extension static-pdf@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-static-pdf:0.4.0
+2021-01-25T22:47:10.437Z - info: Using extension studio@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio:2.10.1
+2021-01-25T22:47:10.527Z - info: Using extension text@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-text:2.0.0
+2021-01-25T22:47:10.528Z - info: Using extension version-control@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-version-control:1.6.0
+2021-01-25T22:47:10.709Z - info: Using extension assets@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-assets:1.7.0
+2021-01-25T22:47:10.743Z - info: Using extension html-to-xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-html-to-xlsx:2.8.3
+2021-01-25T22:47:11.505Z - info: html-to-xlsx detected chrome as available html engine
+2021-01-25T22:47:11.506Z - info: Using extension scheduling@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scheduling:2.5.0
+2021-01-25T22:47:11.578Z - info: Using extension scripts@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-scripts:2.6.0
+2021-01-25T22:47:11.582Z - info: Using extension studio-theme-dark@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-studio-theme-dark:0.3.0
+2021-01-25T22:47:11.584Z - info: Using extension xlsx@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-xlsx:2.5.0
+2021-01-25T22:47:11.954Z - info: Using extension public-templates@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-public-templates:2.2.0
+2021-01-25T22:47:11.957Z - info: Using extension resources@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-resources:2.1.0
+2021-01-25T22:47:11.959Z - info: Using extension sample-template@local:C:\Users\user\Desktop\jsreport\node_modules\jsreport-sample-template:2.6.1
+2021-01-25T22:47:11.963Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-01-25T22:47:11.963Z - info: Using fs provider for template store.
+2021-01-25T22:47:11.969Z - info: fs store is persisting using fs
+2021-01-25T22:47:11.970Z - info: fs store is synchronizing using fs
+2021-01-25T22:47:11.982Z - info: fs store is loading data
+2021-01-25T22:47:12.091Z - info: fs store is initialized successfully
+2021-01-25T22:47:12.107Z - info: Creating default express app.
+2021-01-25T22:47:12.170Z - info: jsreport server successfully started on http port: 8001
+2021-01-25T22:47:12.173Z - info: fs store emits sockets to synchronize underlying changes with studio
+2021-01-25T22:47:12.208Z - info: Verifying license key free
+2021-01-25T22:47:12.210Z - info: Using free license
+2021-01-25T22:47:12.216Z - info: reporter initialized
+2021-01-25T23:20:43.892Z - info: Initializing jsreport@2.11.0 in development mode using configuration file: jsreport.config.json
+2021-01-25T23:20:43.897Z - info: Searching for available extensions in C:\Users\user\Desktop\JS_Report\jsreport\
+2021-01-25T23:20:43.916Z - info: Extensions location cache doesn't contain entry yet, crawling
+2021-01-25T23:20:51.135Z - info: Found 35 extensions
+2021-01-25T23:20:52.291Z - info: Setting http-server strategy for rendering
+2021-01-25T23:20:52.915Z - info: Using extension cli@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-cli:2.2.5
+2021-01-25T23:20:52.930Z - info: Using extension debug@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-debug:2.1.3
+2021-01-25T23:20:52.944Z - info: Using extension express@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-express:2.8.1
+2021-01-25T23:20:53.751Z - info: Using extension freeze@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-freeze:2.0.0
+2021-01-25T23:20:53.759Z - info: Using extension handlebars@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-handlebars:2.1.0
+2021-01-25T23:20:53.785Z - info: Using extension import-export@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-import-export:2.1.1
+2021-01-25T23:20:53.996Z - info: Using extension jsrender@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-jsrender:2.1.1
+2021-01-25T23:20:53.999Z - info: Using extension tags@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-tags:2.5.0
+2021-01-25T23:20:54.012Z - info: Using extension templates@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-templates:2.4.0
+2021-01-25T23:20:54.019Z - info: Using extension authorization@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-authorization:2.4.0
+2021-01-25T23:20:54.045Z - info: Using extension base@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-base:2.0.2
+2021-01-25T23:20:54.056Z - info: Using extension browser-client@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-browser-client:2.2.2
+2021-01-25T23:20:54.066Z - info: Using extension child-templates@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-child-templates:1.4.0
+2021-01-25T23:20:54.087Z - info: Using extension chrome-pdf@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-chrome-pdf:1.10.0
+2021-01-25T23:20:54.451Z - info: Using extension data@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-data:2.4.0
+2021-01-25T23:20:54.455Z - info: Using extension docx@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-docx:2.9.0
+2021-01-25T23:20:54.482Z - info: Using extension fs-store@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-fs-store:2.9.1
+2021-01-25T23:20:55.117Z - info: Using extension licensing@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-licensing:2.2.3
+2021-01-25T23:20:55.149Z - info: Using extension pdf-utils@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-pdf-utils:1.10.1
+2021-01-25T23:20:55.604Z - info: Using extension pptx@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-pptx:0.7.0
+2021-01-25T23:20:55.625Z - info: Using extension reports@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-reports:2.5.1
+2021-01-25T23:20:55.643Z - info: Using extension static-pdf@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-static-pdf:0.4.0
+2021-01-25T23:20:55.668Z - info: Using extension studio@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-studio:2.10.1
+2021-01-25T23:20:55.856Z - info: Using extension text@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-text:2.0.0
+2021-01-25T23:20:55.859Z - info: Using extension version-control@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-version-control:1.6.0
+2021-01-25T23:20:56.326Z - info: Using extension assets@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-assets:1.7.0
+2021-01-25T23:20:56.409Z - info: Using extension html-to-xlsx@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-html-to-xlsx:2.8.3
+2021-01-25T23:20:58.183Z - info: html-to-xlsx detected chrome as available html engine
+2021-01-25T23:20:58.184Z - info: Using extension scheduling@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-scheduling:2.5.0
+2021-01-25T23:20:58.360Z - info: Using extension scripts@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-scripts:2.6.0
+2021-01-25T23:20:58.371Z - info: Using extension studio-theme-dark@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-studio-theme-dark:0.3.0
+2021-01-25T23:20:58.378Z - info: Using extension xlsx@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-xlsx:2.5.0
+2021-01-25T23:20:59.214Z - info: Using extension public-templates@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-public-templates:2.2.0
+2021-01-25T23:20:59.225Z - info: Using extension resources@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-resources:2.1.0
+2021-01-25T23:20:59.237Z - info: Using extension sample-template@local:C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-sample-template:2.6.1
+2021-01-25T23:20:59.250Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2021-01-25T23:20:59.250Z - info: Using fs provider for template store.
+2021-01-25T23:20:59.264Z - info: fs store is persisting using fs
+2021-01-25T23:20:59.269Z - info: fs store is synchronizing using fs
+2021-01-25T23:20:59.304Z - info: fs store is loading data
+2021-01-25T23:20:59.516Z - info: fs store is initialized successfully
+2021-01-25T23:20:59.549Z - info: Creating default express app.
+2021-01-25T23:20:59.627Z - info: jsreport server successfully started on http port: 8001
+2021-01-25T23:20:59.629Z - info: fs store emits sockets to synchronize underlying changes with studio
+2021-01-25T23:20:59.718Z - info: Verifying license key free
+2021-01-25T23:20:59.721Z - info: Using free license
+2021-01-25T23:20:59.743Z - info: reporter initialized
+2021-01-25T23:21:32.685Z - info: Starting rendering request 1 (user: null)
+2021-01-25T23:21:32.697Z - warn: Rendering request 1 finished with error in 12 ms
+2021-01-25T23:21:32.698Z - warn: Error when processing render request 1 Unable to find specified template or user doesnt have permissions to read it: HkRJlnoH Error: Unable to find specified template or user doesnt have permissions to read it: HkRJlnoH
+    at module.exports (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-templates\lib\templates.js:134:20)
+2021-01-25T23:21:32.702Z - warn: Error during processing request at http://localhost:8001/api/report
+2021-01-25T23:24:03.067Z - info: Starting rendering request 2 (user: null)
+2021-01-25T23:24:03.071Z - warn: Rendering request 2 finished with error in 4 ms
+2021-01-25T23:24:03.072Z - warn: Error when processing render request 2 Unable to find specified template or user doesnt have permissions to read it: HkRJlnoH Error: Unable to find specified template or user doesnt have permissions to read it: HkRJlnoH
+    at module.exports (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-templates\lib\templates.js:134:20)
+2021-01-25T23:24:03.072Z - warn: Error during processing request at http://localhost:8001/api/report
+2021-01-25T23:24:03.273Z - info: Starting rendering request 3 (user: null)
+2021-01-25T23:24:03.280Z - warn: Rendering request 3 finished with error in 7 ms
+2021-01-25T23:24:03.282Z - warn: Error when processing render request 3 Unable to find specified template or user doesnt have permissions to read it: HkRJlnoH Error: Unable to find specified template or user doesnt have permissions to read it: HkRJlnoH
+    at module.exports (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (C:\Users\user\Desktop\JS_Report\jsreport\node_modules\jsreport-templates\lib\templates.js:134:20)
+2021-01-25T23:24:03.284Z - warn: Error during processing request at http://localhost:8001/api/report

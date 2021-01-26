@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jsreport": "^2.11.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "js_report",
+  "description": "npm install jsreport-cli -g\r mkdir jsreportapp\r cd jsreportapp\r jsreport init\r jsreport configure\r jsreport start",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
